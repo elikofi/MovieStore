@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MovieStoreWebApp
+build_property.RootNamespace = MovieStoreWebApp
+build_property.ProjectDir = /Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Director/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Director/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Director/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Genre/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Genre/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Genre/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Production/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdGlvbi9BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Production/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdGlvbi9HZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Production/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdGlvbi9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1mdmkqbbua
