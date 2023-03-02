@@ -48,6 +48,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Movie/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Movie/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Movie/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/Views/Production/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdGlvbi9BZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

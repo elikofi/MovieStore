@@ -28,6 +28,7 @@
     <None Remove="Views\Genre\" />
     <None Remove="Views\Production\" />
     <None Remove="Views\Director\" />
+    <None Remove="Views\Movie\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\Domain\" />
@@ -38,5 +39,6 @@
     <Folder Include="Views\Genre\" />
     <Folder Include="Views\Production\" />
     <Folder Include="Views\Director\" />
+    <Folder Include="Views\Movie\" />
   </ItemGroup>
 </Project>

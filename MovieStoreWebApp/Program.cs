@@ -13,6 +13,7 @@ builder.Services.AddDbContext<DatabaseContext>(options =>
 builder.Services.AddScoped<IGenreService, GenreService>();
 builder.Services.AddScoped<IProductionService, ProductionService>();
 builder.Services.AddScoped<IDirectorService, DirectorService>();
+builder.Services.AddScoped<IMovieService, MovieService>();
 
 var app = builder.Build();
 
@@ -33,7 +34,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Genre}/{action=Add}/{id?}");
+    pattern: "{controller=Movie}/{action=Add}/{id?}");
 
 app.Run();
 
