@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZH0UbOvxwDn3RBnxEU5rDBMP6E0l0EXirjxeF9Ay/2oY4Eo/ro6dJTwgJ8XA7uj3cCq+Uxvou8G7Kggmixg9ig==",
+  "dgSpecHash": "Qmo/183fdXZzJoq9/v1ey5dKlCEP/eInGaRrbtLk3W4ptFHO1YJoAY0mzQonqMAnl+w0Q76Kjqp/qWonH1KP7A==",
   "success": true,
-  "projectFilePath": "/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj",
+  "projectFilePath": "/Users/elijahamoako/Desktop/Portfolio/ASP.NET Core/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj",
   "expectedPackageFiles": [
     "/Users/elijahamoako/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/elijahamoako/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",

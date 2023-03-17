@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj": {}
+    "/Users/elijahamoako/Desktop/Portfolio/ASP.NET Core/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj": {}
   },
   "projects": {
-    "/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj": {
+    "/Users/elijahamoako/Desktop/Portfolio/ASP.NET Core/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj",
+        "projectUniqueName": "/Users/elijahamoako/Desktop/Portfolio/ASP.NET Core/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj",
         "projectName": "MovieStoreWebApp",
-        "projectPath": "/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj",
+        "projectPath": "/Users/elijahamoako/Desktop/Portfolio/ASP.NET Core/MovieStoreWebApp/MovieStoreWebApp/MovieStoreWebApp.csproj",
         "packagesPath": "/Users/elijahamoako/.nuget/packages/",
-        "outputPath": "/Users/elijahamoako/Desktop/MovieStoreWebApp/MovieStoreWebApp/obj/",
+        "outputPath": "/Users/elijahamoako/Desktop/Portfolio/ASP.NET Core/MovieStoreWebApp/MovieStoreWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elijahamoako/.nuget/NuGet/NuGet.Config"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
